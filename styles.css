@@ -112,6 +112,7 @@ p {
  .about{
 background: linear-gradient(to top, #d5e3f3 0%, white 100%);
  }
+
  .project-description{
     padding: 120px 30px ;
  }
@@ -145,7 +146,7 @@ background: linear-gradient(to top, #d5e3f3 0%, white 100%);
  }
 
 .container-about{
-    padding: 80px 0px 20px;
+    padding: 80px 0px 160px;
     text-align: center;
     margin: 0 30%;
 }
@@ -154,7 +155,7 @@ background: linear-gradient(to top, #d5e3f3 0%, white 100%);
     background: linear-gradient(179.1deg, rgb(247, 238, 238) -1.9%, rgb(247, 202, 201) 44.9%, rgb(145, 168, 208) 96.1%);
 }
 .container-contact-me{
-    padding: 120px 30px 40px;
+    padding: 120px 30px 340px;
     text-align: left;
 }
 
